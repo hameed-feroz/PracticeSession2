@@ -6,3 +6,6 @@ logfile.txt
 tempfile.txt
 log files
 temp files
+*.log
+temp1
+temp2

@@ -7,3 +7,6 @@ This file is not useful for the project.
 You can ignore this file.
 
 Log File Update 1
+
+Log File Update 2
+
