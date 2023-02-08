@@ -1,0 +1,7 @@
+This is a log file. 
+
+All the logs are stored here.
+
+This file is not useful for the project. 
+
+You can ignore this file.
