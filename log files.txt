@@ -5,3 +5,5 @@ All the logs are stored here.
 This file is not useful for the project. 
 
 You can ignore this file.
+
+Log File Update 1
